@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Fatma Hassan
-- 👀 I’m interested in data science and software deveolopment
-- 🌱 I’m currently learning django and javascript
+- 👀 I’m interested in artifical intelligence and software deveolopment
 - 💞️ I’m looking to collaborate on building a real world projects
 - 📫 How to reach me : through my e-mail hfatma696@gmail.com
 
