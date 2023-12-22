@@ -1,5 +1,6 @@
-- The power of imagination makes us infinte.
-- Teach what you know.
+Hi! It's Fatma. A pragmatic software engineer that favor Mathematics.
+- I believe "The power of imagination makes us infinte".
+- Always "Teach what you know".
 - How to reach me : hfatma696@gmail.com.
 
 <!---
