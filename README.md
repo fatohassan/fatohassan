@@ -1,5 +1,6 @@
-The power of imagination makes us infinte.
-- How to reach me : hfatma696@gmail.com
+- The power of imagination makes us infinte.
+- How to reach me : hfatma696@gmail.com.
+- Teach what you know.
 
 <!---
 fatohassan/fatohassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
