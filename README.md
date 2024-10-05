@@ -1,4 +1,4 @@
-Hi! It's Fatma. A pragmatic software engineer that favor Mathematics.
+Hi! I'm Fatma. A pragmatic SWE.
 - I believe "The power of imagination makes us infinte".
 - Always "Teach what you know".
 - How to reach me : fatmaelsiddig@gmail.com.
